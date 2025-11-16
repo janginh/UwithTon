@@ -1,4 +1,4 @@
-# 🛠️ UwithTon Mini Hackathon 2025  
+# 🛠️ UwithThon Mini Hackathon 2025  
 ### 전남대학교 전자컴퓨터공학부 동아리 **Uwith** 주최
 
 ---
@@ -63,7 +63,7 @@
 
 ## 📁 제공 파일 형태 
 ```
-UwithTon
+UwithThon
 ├── data
 │   ├── images
 │   │   ├── train (1919개)
